@@ -1,10 +1,10 @@
-import Todos from './components/Todos/Todos';
+import Travel from './components/Travel/Travel';
 import './App.css';
 
 function App() {
   return (
     <div>
-      <Todos />
+      <Travel />
     </div>
 
   );
